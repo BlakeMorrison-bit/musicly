@@ -1,5 +1,5 @@
 const clientID = 'bc99f9c192b74539af6d95d68319457a';
-const redirectUri = "http://localhost:3000/callback/";
+const redirectUri = "https://agitated-elion-fbd636.netlify.app";
 
 let accessToken;
 const Spotify = {
